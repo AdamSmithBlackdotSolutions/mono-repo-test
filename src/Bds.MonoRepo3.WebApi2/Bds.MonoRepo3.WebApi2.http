@@ -1,0 +1,6 @@
+@Bds.MonoRepo3.WebApi2_HostAddress = http://localhost:5297
+
+GET {{Bds.MonoRepo3.WebApi2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

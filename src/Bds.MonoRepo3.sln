@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bds.MonoRepo3.WebApi1", "Bds.MonoRepo3.WebApi1\Bds.MonoRepo3.WebApi1.csproj", "{1029963C-627C-4D46-93C7-528F196C0E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bds.MonoRepo3.WebApi2", "Bds.MonoRepo3.WebApi2\Bds.MonoRepo3.WebApi2.csproj", "{2B6B5782-1AEB-4484-BDA9-57717496D61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bds.MonoRepo3.Core", "Bds.MonoRepo3.Core\Bds.MonoRepo3.Core.csproj", "{3D6E8FC7-8062-4256-950A-C9A5886CDAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1029963C-627C-4D46-93C7-528F196C0E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1029963C-627C-4D46-93C7-528F196C0E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1029963C-627C-4D46-93C7-528F196C0E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1029963C-627C-4D46-93C7-528F196C0E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6B5782-1AEB-4484-BDA9-57717496D61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6B5782-1AEB-4484-BDA9-57717496D61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6B5782-1AEB-4484-BDA9-57717496D61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6B5782-1AEB-4484-BDA9-57717496D61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6E8FC7-8062-4256-950A-C9A5886CDAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6E8FC7-8062-4256-950A-C9A5886CDAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6E8FC7-8062-4256-950A-C9A5886CDAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6E8FC7-8062-4256-950A-C9A5886CDAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
