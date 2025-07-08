@@ -1,0 +1,158 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.2.2",
+  "pathMappings": {},
+  "nxJsonPlugins": [
+    {
+      "name": "@nx-dotnet/core",
+      "version": "^3.0.0",
+      "options": {
+        "solutionFile": "Bds.MonoRepo3.sln"
+      }
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".nx/workspace-data/parsed-lock-file.json",
+        "hash": "7751232347376463616"
+      },
+      {
+        "file": ".nx/workspace-data/file-map.json",
+        "hash": "865675587570653982"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "5988225551213232887"
+      },
+      {
+        "file": "package.json",
+        "hash": "9458383951729228162"
+      },
+      {
+        "file": ".nx/workspace-data/nx_files.nxt",
+        "hash": "12340031955010121024"
+      },
+      {
+        "file": ".nxignore",
+        "hash": "3430663052597022833"
+      },
+      {
+        "file": ".nx/workspace-data/project-graph.json",
+        "hash": "12072155629887770187"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4289384927419684458"
+      },
+      {
+        "file": ".nx/workspace-data/source-maps.json",
+        "hash": "7009613092207769709"
+      },
+      {
+        "file": ".nx/workspace-data/d/server-process.json",
+        "hash": "11401366194959019397"
+      },
+      {
+        "file": "Bds.MonoRepo3.sln",
+        "hash": "5216966529262712257"
+      },
+      {
+        "file": ".nx/workspace-data/lockfile.hash",
+        "hash": "17441181107375977327"
+      }
+    ],
+    "projectFileMap": {
+      "Bds.MonoRepo3.Core": [
+        {
+          "file": "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+          "hash": "16806263679773587407"
+        },
+        {
+          "file": "Bds.MonoRepo3.Core/Class1.cs",
+          "hash": "10580885500250638629"
+        },
+        {
+          "file": "Bds.MonoRepo3.Core/project.json",
+          "hash": "16991116662255099985"
+        }
+      ],
+      "Bds.MonoRepo3.WebApi1": [
+        {
+          "file": "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+          "hash": "2228035678989104601"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.http",
+          "hash": "8126987281269394955"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/Controllers/WeatherForecastController.cs",
+          "hash": "964204627298163368"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/Program.cs",
+          "hash": "16522273945000540421"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/Properties/launchSettings.json",
+          "hash": "17183073591254594176"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/WeatherForecast.cs",
+          "hash": "7308206866326008077"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/appsettings.Development.json",
+          "hash": "7886013864804760141"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/appsettings.json",
+          "hash": "16219606408788645753"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi1/project.json",
+          "hash": "1266675630907891979"
+        }
+      ],
+      "Bds.MonoRepo3.WebApi2": [
+        {
+          "file": "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+          "hash": "12565969317834115274"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.http",
+          "hash": "4943059754162328963"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/Controllers/WeatherForecastController.cs",
+          "hash": "15048883217422120087"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/Program.cs",
+          "hash": "2123162324920930253"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/Properties/launchSettings.json",
+          "hash": "1020170636774114859"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/WeatherForecast.cs",
+          "hash": "14031924987838424661"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/appsettings.Development.json",
+          "hash": "7886013864804760141"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/appsettings.json",
+          "hash": "16219606408788645753"
+        },
+        {
+          "file": "Bds.MonoRepo3.WebApi2/project.json",
+          "hash": "16956778139605119386"
+        }
+      ]
+    }
+  }
+}

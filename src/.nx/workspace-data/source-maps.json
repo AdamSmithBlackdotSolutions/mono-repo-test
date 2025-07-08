@@ -1,0 +1,380 @@
+{
+  "Bds.MonoRepo3.Core": {
+    "root": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "tags.nx-dotnet": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.cache": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.dependsOn": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options.configuration": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options.noDependencies": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations.production": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations.production.configuration": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.executor": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.cache": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.inputs": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.executor": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.options": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.options.configuration": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations.production": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations.production.configuration": [
+      "Bds.MonoRepo3.Core/Bds.MonoRepo3.Core.csproj",
+      "@nx-dotnet/core"
+    ],
+    "projectType": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:library": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "Bds.MonoRepo3.Core/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "Bds.MonoRepo3.WebApi1": {
+    "root": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "tags.nx-dotnet": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.cache": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.dependsOn": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options.configuration": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options.noDependencies": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations.production": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations.production.configuration": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.executor": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.cache": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.inputs": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.options.configuration": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations.production": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations.production.configuration": [
+      "Bds.MonoRepo3.WebApi1/Bds.MonoRepo3.WebApi1.csproj",
+      "@nx-dotnet/core"
+    ],
+    "projectType": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:application": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "Bds.MonoRepo3.WebApi1/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "Bds.MonoRepo3.WebApi2": {
+    "root": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "tags.nx-dotnet": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.cache": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.dependsOn": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options.configuration": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.options.noDependencies": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations.production": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.build.configurations.production.configuration": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.executor": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.cache": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.lint.inputs": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.options.configuration": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations.production": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "targets.serve.configurations.production.configuration": [
+      "Bds.MonoRepo3.WebApi2/Bds.MonoRepo3.WebApi2.csproj",
+      "@nx-dotnet/core"
+    ],
+    "projectType": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:application": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "Bds.MonoRepo3.WebApi2/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}

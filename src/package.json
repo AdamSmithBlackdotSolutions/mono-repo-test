@@ -1,0 +1,15 @@
+{
+  "name": "bds-monorepo3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "nx run-many --target=build --all",
+    "test": "nx run-many --target=test --all",
+    "serve:api1": "nx serve Bds.MonoRepo3.WebApi1",
+    "serve:api2": "nx serve Bds.MonoRepo3.WebApi2"
+  },
+  "devDependencies": {
+    "@nx-dotnet/core": "^3.0.0",
+    "nx": "^21.2.2"
+  }
+}

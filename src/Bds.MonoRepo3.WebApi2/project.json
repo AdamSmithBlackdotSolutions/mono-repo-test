@@ -1,0 +1,16 @@
+{
+  "name": "Bds.MonoRepo3.WebApi2",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nx-dotnet/core:build"
+    },
+    "serve": {
+      "executor": "@nx-dotnet/core:serve"
+    },
+    "test": {
+      "executor": "@nx-dotnet/core:test"
+    }
+  },
+  "tags": ["type:application"]
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "plugins": [
+    {
+      "plugin": "@nx-dotnet/core",
+      "options": {
+        "solutionFile": "Bds.MonoRepo3.sln"
+      }
+    }
+  ]
+}
